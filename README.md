@@ -301,7 +301,7 @@ The routes of the flask api.
 <p align="right">(<a href="#top">back to top</a>)</p>
 ## Demonstration Video
 
-[![Demo](./demo.mp4)](./demo.mp4)
+[![Demo]](./media/demo.mp4)
 
 
 ## Acknowledgments
