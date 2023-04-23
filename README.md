@@ -300,12 +300,6 @@ The routes of the flask api.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Demonstration Video
-
-
-[![Demo](https://www.shutterstock.com/image-illustration/illustration-kerberos-mystical-creature-legendary-600w-745336948.jpg)](./media/demo.mp4)
-
-https://github.com/MedAzizKhayati/kerberos-flask-electron/blob/master/media/demo.mp4?raw=true
 
 ## Acknowledgments
 A list of resources which are helpful and would like to give credit to:
@@ -313,3 +307,9 @@ A list of resources which are helpful and would like to give credit to:
 * [Python kerberos module](http://python-notes.curiousefficiency.org/en/latest/python_kerberos.html)
 * [Electron Starter Template](https://github.com/maxstue/vite-reactts-electron-starter.git)
 * [Hamza-Mahjoub-Flask-Kerberos](https://github.com/hamza-mahjoub/flask-kerberos-module)
+
+## Demonstration Video
+
+[Demo Link 1](https://rr5---sn-4g5ednds.c.drive.google.com/videoplayback?expire=1682275965&ei=PUZFZLSkD_yG2bQPl5O18AQ&ip=102.156.246.166&cp=QVRNVENfVFlURlhPOi1EbUY5NmRuM1pzVEVGQW1JZVcwYzdabnN1Ykx2QlNRZnhfWHpLSW5sNmo&id=69af062e8ac43181&itag=18&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=12jVIvpMU9123VPo5cMowFt_Fn6BqulgL&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=314.142&lmt=1682202503300213&subapp=DRIVE_WEB_FILE_VIEWER&txp=0016224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAOOyEWljEOm91XdVgApAuL6QNxZHC6UXNcAEDaryrlQxAiAnYJBVlMyfZmnEBpMMOQDrlpVcXpDTNBl14EcO_Eh7jA==&cpn=f6xE1U0hEkFHgaK7&c=WEB_EMBEDDED_PLAYER&cver=1.20230418.00.00&redirect_counter=1&cm2rm=sn-hpa6r7e&req_id=ff60b3542c89a3ee&cms_redirect=yes&cmsv=e&mh=Hp&mm=34&mn=sn-4g5ednds&ms=ltu&mt=1682261801&mv=m&mvi=5&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgYMXyEGSbXm_zp7lU0NCw6XYnPfpsE_tUzDyuoScqZPUCIDPLMFBRBTM9-T3vjPkaPepCrBZlrQFG4PNbZJImdVPb)
+
+[Demo Link 2](https://drive.google.com/file/d/12jVIvpMU9123VPo5cMowFt_Fn6BqulgL/view)
