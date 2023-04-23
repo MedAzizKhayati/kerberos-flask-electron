@@ -301,7 +301,7 @@ The routes of the flask api.
 <p align="right">(<a href="#top">back to top</a>)</p>
 ## Demonstration Video
 
-[![Demo](./Thumbnail.png)](https://github.com/MedAzizKhayati/kerberos-flask-electron/blob/master/media/demo.mp4?raw=true)
+[![Demo](https://www.shutterstock.com/image-illustration/illustration-kerberos-mystical-creature-legendary-600w-745336948.jpg)](./media/demo.mp4)
 
 https://github.com/MedAzizKhayati/kerberos-flask-electron/blob/master/media/demo.mp4?raw=true
 
